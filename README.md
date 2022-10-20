@@ -1,3 +1,38 @@
+## 📕 About
+
+Em estudo na Kenzie Academy Brasil, foi proposto desenvolver um ferramenta que pudesse registrar tecnologias aprendidas e seu nível respectivamente.
+
+## 🔧 Tools
+
+- [Node](https://nodejs.org/en/)
+- [React](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Axios](https://axios-http.com/docs/intro)
+- [react-router-dom](https://api-tibia.vercel.app/)
+- [styled-components](https://styled-components.com/)
+
+## ♻ How Contribute
+
+```
+bash
+#clone the project
+$git clone git@github.com:pablorzenha/tibia-api.git
+```
+
+```
+bash
+#Enter directory
+$cd tibia-api
+```
+
+```
+bash
+# Install the dependencies
+$npm install
+or
+$yarn
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
