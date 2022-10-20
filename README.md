@@ -16,13 +16,13 @@ Em estudo na Kenzie Academy Brasil, foi proposto desenvolver um ferramenta que p
 ```
 bash
 #clone the project
-$git clone git@github.com:pablorzenha/tibia-api.git
+$git clone git@github.com:pablorzenha/kenziehub.git
 ```
 
 ```
 bash
 #Enter directory
-$cd tibia-api
+$cd kenziehub
 ```
 
 ```
